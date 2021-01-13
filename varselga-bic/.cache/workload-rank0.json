@@ -1,0 +1,27 @@
+{
+    "35qurG": {
+        "average": 8960.697878565501,
+        "count": 2,
+        "total": 17921.395757131002
+    },
+    "ErrorMPI": {
+        "average": 3.51815698,
+        "count": 1,
+        "total": 3.51815698
+    },
+    "Evaluator->Cost": {
+        "average": 8.94444218957142,
+        "count": 1001,
+        "total": 8953.386631760992
+    },
+    "VarSelGA minimizer": {
+        "average": 8955.977663902,
+        "count": 1,
+        "total": 8955.977663902
+    },
+    "VarSelGA::minimize::evaluator->Cost": {
+        "average": 8.94466767442558,
+        "count": 1001,
+        "total": 8953.612342100005
+    }
+}

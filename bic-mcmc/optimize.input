@@ -1,0 +1,6 @@
+[mcmc]
+batchsize = 20;
+chainnumber = 12;
+maxiter = 20000;
+alpha = 0.25;
+guess = guess.json;

@@ -1,0 +1,57 @@
+{
+    "CalculatingResidual": {
+        "average": 0.00015435870912726318,
+        "count": 25506,
+        "total": 3.937073234999975
+    },
+    "CreatePrediction": {
+        "average": 2.9445969575786405e-07,
+        "count": 25506,
+        "total": 0.00751048900000008
+    },
+    "ErrorMPI": {
+        "average": 3.653729933,
+        "count": 1,
+        "total": 3.653729933
+    },
+    "InitPrediction": {
+        "average": 0.00048317357704069376,
+        "count": 25506,
+        "total": 12.323825255999935
+    },
+    "Predict": {
+        "average": 0.7808031146640062,
+        "count": 25506,
+        "total": 19915.164242620143
+    },
+    "R8fNCt": {
+        "average": null,
+        "count": 0,
+        "total": 0.0
+    },
+    "RenderingDatabase": {
+        "average": 1.5172367246922319e-05,
+        "count": 25506,
+        "total": 0.38698639900000065
+    },
+    "RenderingProperty": {
+        "average": 7.380190464988622e-06,
+        "count": 25506,
+        "total": 0.1882391379999998
+    },
+    "comput-rank-34": {
+        "average": 0.7816212574811822,
+        "count": 25506,
+        "total": 19936.031793315033
+    },
+    "recv-rank-34": {
+        "average": 0.07596276023926787,
+        "count": 25507,
+        "total": 1937.5821254230057
+    },
+    "send-rank-34": {
+        "average": 1.727841605896634e-06,
+        "count": 25506,
+        "total": 0.04407032799999955
+    }
+}

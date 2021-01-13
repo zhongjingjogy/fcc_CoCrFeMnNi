@@ -1,0 +1,5 @@
+[rega]
+maxiter = 1000;
+maxunchangedcount = 20;
+bounds = (default, -800, 300);
+guess = guess.json;

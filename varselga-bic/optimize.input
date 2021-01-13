@@ -1,0 +1,8 @@
+[mcmc]
+batchsize = 20;
+chainnumber = 12;
+maxiter = 100;
+
+[varselga]
+bounds = (default, -800, 300);
+maxiter = 1000;

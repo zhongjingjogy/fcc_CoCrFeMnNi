@@ -1,0 +1,27 @@
+{
+    "ErrorMPI": {
+        "average": 1.049093014,
+        "count": 1,
+        "total": 1.049093014
+    },
+    "Evaluator->Cost": {
+        "average": 5.4553772850898214,
+        "count": 1002,
+        "total": 5466.288039660001
+    },
+    "GA::minimize::evaluator->Cost": {
+        "average": 5.45536388668631,
+        "count": 1001,
+        "total": 5460.819250572997
+    },
+    "VarSelGA minimizer": {
+        "average": 5467.338815491,
+        "count": 1,
+        "total": 5467.338815491
+    },
+    "ZBqmn1": {
+        "average": 5469.4577299835,
+        "count": 2,
+        "total": 10938.915459967
+    }
+}

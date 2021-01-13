@@ -1,0 +1,27 @@
+{
+    "ErrorMPI": {
+        "average": 3.686832413,
+        "count": 1,
+        "total": 3.686832413
+    },
+    "Evaluator->Cost": {
+        "average": 21.848750816751252,
+        "count": 1001,
+        "total": 21870.599567568002
+    },
+    "VarSelGA minimizer": {
+        "average": 21873.442353174,
+        "count": 1,
+        "total": 21873.442353174
+    },
+    "VarSelGA::minimize::evaluator->Cost": {
+        "average": 21.849026461612397,
+        "count": 1001,
+        "total": 21870.87548807401
+    },
+    "paTQRV": {
+        "average": 21881.8883719705,
+        "count": 2,
+        "total": 43763.776743941
+    }
+}

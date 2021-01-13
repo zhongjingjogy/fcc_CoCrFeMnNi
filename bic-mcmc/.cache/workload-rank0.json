@@ -1,0 +1,32 @@
+{
+    "ErrorMPI": {
+        "average": 1.334407254,
+        "count": 1,
+        "total": 1.334407254
+    },
+    "FullEvaluator": {
+        "average": 2.6511550673079114,
+        "count": 20000,
+        "total": 53023.101346158226
+    },
+    "MCMC Loop": {
+        "average": 53029.213381525,
+        "count": 1,
+        "total": 53029.213381525
+    },
+    "bGpjbu": {
+        "average": 53038.217162436,
+        "count": 2,
+        "total": 106076.434324872
+    },
+    "minimize": {
+        "average": 53033.025361967,
+        "count": 1,
+        "total": 53033.025361967
+    },
+    "proccesscount": {
+        "average": 26.488064402346826,
+        "count": 2001,
+        "total": 53002.616869096
+    }
+}
