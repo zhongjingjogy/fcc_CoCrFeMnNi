@@ -1,4 +1,6 @@
-# Repository for dataset of Jing Zhong, Li Chen & Lijun Zhang, Automation of diffusion database development for multicomponent alloys from large number of experimental composition profiles, npj Comput. Mater. accepted, (2021).
+# Repository for dataset of fcc CoCrFeMnNi HEAs
+
+Dataset of paper **Jing Zhong, Li Chen & Lijun Zhang, Automation of diffusion database development for multicomponent alloys from large number of experimental composition profiles, npj Comput. Mater. in 2nd revision.**
 
 - varsel-ga-aic: HitDIC project for Variable-Selection Genetic Algorithm based on AIC
 - varsel-ga-bic: HitDIC project for Variable-Selection Genetic Algorithm based on BIC
